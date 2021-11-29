@@ -32,7 +32,7 @@
 
 </a></p>
 
-<h2><b><i>Hello I'm SHAHID BASHIR✨</i></b></h2>
+<h2><b>< MR SHAHID BASHIR✨</i></b></h2>
 
 <b><i>💻 I'm a Student & I Like programming</i></b>
 
@@ -47,7 +47,7 @@
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
 
 <a href="https://github.com/Alesi406080"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=Sahil-&color=blueviolet&style=flat-square"></a>
-<h1 align="center"> I'm SHAHID (SAHIL)</h1>
+<h1 align="center"> Mr. SHAHID (Alex)</h1>
 <p align="center">
      
      <i> <b> MR SHAHID HIGH LEVEL BRAND </b> </i>
