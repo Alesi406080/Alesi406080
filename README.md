@@ -7,12 +7,11 @@
 
 ### Here are some ideas to get you started:
 
-### 🔭 I’m currently working on ...
-### 🌱 I’m currently learning ...
-### 👯 I’m looking to collaborate on ...
-### 🤔 I’m looking for help with ...
-### 💬 Ask me about ...
-### 📫 How to reach me: ...
+### 🔭 I’m currently working ON Codeing
+### 🌱 I’m currently learning Programming 
+### 👯 I’m looking to collaborate on Python
+### 🤔 I’m looking for help with C# C++ 
+### 💬 Ask me about What's ever you want 
 ### 😄 Pronouns: ...
 ### ⚡ Fun fact: ...
 ###  Mail::send('emails.contactemail', $emailcontent, function($message)
@@ -38,7 +37,7 @@
 
 <h3><b><i> About me 🧠 :</i></b></h3>
 
-<li> 🇵🇰 <i> From Pakistan  </i></li>
+<li> 🇵🇰 <i> Pakistan Zinda baad </i></li>
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 
@@ -46,11 +45,11 @@
 
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
 
-<a href="https://github.com/Alesi406080"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=Sahil-&color=blueviolet&style=flat-square"></a>
+<a href="https://github.com/Alesi406080"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=Sahil&color=blueviolet&style=flat-square"></a>
 <h1 align="center"> Mr. SHAHID (Alex)</h1>
 <p align="center">
      
-     <i> <b> MR SHAHID HIGH LEVEL BRAND </b> </i>
+     <i> <b> WHY ARE YOU SO SERIOUS </b> </i>
 </p>
 
 <p align="center">
