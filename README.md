@@ -65,3 +65,11 @@
 
 <a href="https://github.com/Alesi406080"><img title="Github" src="https://img.shields.io/badge/SHAHID-BASHIR-brightgreen?style=for-the-badge&logo=github"></a>
 
+[![](https://img.shields.io/badge/Facebook-ACCOUNT-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/profile.php?id=03081008587sahil)
+
+[![](https://img.shields.io/badge/Whatsapp-03081008587-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)]
+
+[![](https://img.shields.io/badge/Twitter-@Alesi406080-red?logo=Twitter&logoColor=Brightgreen&labelColor=white)]
+
+[![](https://img.shields.io/badge/Github-@Alesi406080-black?logo=Github&logoColor=black&labelColor=white)]
+
